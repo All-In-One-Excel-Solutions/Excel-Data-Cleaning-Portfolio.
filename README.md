@@ -22,7 +22,7 @@ This project demonstrates how raw Excel data is cleaned, structured, and made an
 - `screenshots`: Visuals showing each cleaning step
 
 # 🔗 Portfolio
-This project is featured in my portfolio. [View on Canva]([https://your-canva-link.com](https://vishal1998.my.canva.site/brown-and-cream-modern-portfolio-presentation))
+This project is featured in my portfolio. https://your-canva-link.com](https://vishal1998.my.canva.site/brown-and-cream-modern-portfolio-presentation
 
 ---
 
